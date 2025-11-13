@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Jesse Loudon
 
-I work on AI governance, evaluation, and analytics in financial services—bridging technical AI implementation with business outcomes and regulatory compliance.
+I work on AI governance, evaluation, and analytics in financial services - bridging technical AI implementation with business outcomes and regulatory compliance.
 
 - Build AI governance frameworks and LLM evaluation methodologies for GenAI applications
 - Specialize in AWS Bedrock RAG systems, LLM-as-a-Judge approaches, and human-in-the-loop processes
