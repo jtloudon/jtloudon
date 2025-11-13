@@ -8,5 +8,3 @@ I work on AI governance, evaluation, and analytics in financial services - bridg
 - Focus on making GenAI safe and effective in regulated industries (NIST AI RMF compliance)
 
 Currently exploring: Classification frameworks for AI risk management | Continuous evaluation patterns for banking RAG applications
-
-**Location:** Minneapolis, MN
